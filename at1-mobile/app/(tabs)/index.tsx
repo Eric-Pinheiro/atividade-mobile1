@@ -36,25 +36,6 @@ export default function app(){
 )
 }
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#121212',
-    padding: 20,
-  },
-  profileImage: {
-    width: 150,
-    height: 150,
-    borderRadius: 75,
-    marginBottom: 20,
-  },
-  name: {
-    fontSize: 22,
-    color: '#fff',
-    marginBottom: 20,
-    fontWeight: 'bold',
-  },
   button: {
     backgroundColor: '#1E88E5',
     paddingVertical: 12,
