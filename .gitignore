@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Expo & React Native
+.expo/
+.expo-shared/
+web-build/
+dist/
+build/
+android/
+ios/
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+expo-error.log
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment & secrets
+.env
+.env.*
+*.keystore
+*.p8
+*.jks
+*.p12
+*.key
+*.mobileprovision
+
+# Editor & IDE configs
+.vscode/
+.idea/
+*.swp
+
+# Cache & temporary files
+.tmp/
+.cache/
+.expo/
+coverage/
